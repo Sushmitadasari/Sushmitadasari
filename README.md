@@ -67,4 +67,4 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sushmitadasari)  
 
 ---
-✨ _"Turning ideas into code and code into impact."_ ✨
+✨ _"Turning ideas into code and the code into impact."_ ✨
