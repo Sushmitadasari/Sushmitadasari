@@ -98,8 +98,8 @@
 ---
 
 ## 🌐 Let’s Connect  
-[LinkedIn](https://www.linkedin.com/in/sushmita-dasari-227a40284/) •  
-[Portfolio](https://sushmitadasari.github.io/portfolio/) •  
+[LinkedIn](https://www.linkedin.com/in/sushmita-dasari-227a40284/) 
+[Portfolio](https://sushmitadasari.github.io/portfolio/) 
 [GitHub](https://github.com/Sushmitadasari)
 
 ---
