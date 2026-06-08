@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 <!-- Heading Banner -->
@@ -183,5 +182,4 @@ I am **Sri Sushmita**, an **Artificial Intelligence & Machine Learning undergrad
 
 </div>
 
-```
-\
+
