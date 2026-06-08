@@ -4,7 +4,6 @@
 📍 Aditya Engineering College, Surampalem  
 📊 **CGPA:** 9.10  
 📫 **Email:** sushmitadasari17@gmail.com  
-📞 **Phone:** +91 91776 42377  
 
 ---
 
