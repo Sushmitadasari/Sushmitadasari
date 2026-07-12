@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="560" viewBox="0 0 1180 560">
+<defs>
+  <linearGradient id="asciiGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#1E293B">
+      <animate attributeName="stop-color" values="#1E293B;#6D28D9;#0E7490;#1E293B" dur="9s" repeatCount="indefinite"/>
+    </stop>
+    <stop offset="100%" stop-color="#6D28D9">
+      <animate attributeName="stop-color" values="#6D28D9;#0E7490;#1E293B;#6D28D9" dur="9s" repeatCount="indefinite"/>
+    </stop>
+  </linearGradient>
+  <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#7C3AED"/>
+    <stop offset="50%" stop-color="#22D3EE"/>
+    <stop offset="100%" stop-color="#10B981"/>
+  </linearGradient>
+  <radialGradient id="bgGlow" cx="30%" cy="20%" r="80%">
+    <stop offset="0%" stop-color="#FFFFFF"/>
+    <stop offset="100%" stop-color="#F6F8FA"/>
+  </radialGradient>
+  <style>
+    .ascii  { font-family: 'Courier New', Consolas, monospace; font-size: 7.4px; fill: url(#asciiGrad); letter-spacing: -0.2px; }
+    .key    { font-family: 'Courier New', Consolas, monospace; font-size: 15px; fill: #0969DA; font-weight: bold; }
+    .value  { font-family: 'Courier New', Consolas, monospace; font-size: 15px; fill: #24292F; }
+    .cc     { font-family: 'Courier New', Consolas, monospace; font-size: 15px; fill: #6E7781; }
+    .head   { font-family: 'Courier New', Consolas, monospace; font-size: 17px; fill: #6D28D9; font-weight: bold; }
+    .accent { font-family: 'Courier New', Consolas, monospace; font-size: 15px; fill: #059669; font-weight: bold; }
+    text, tspan { white-space: pre; }
+  </style>
+</defs>
+
+<rect width="1180" height="560" rx="18" fill="url(#bgGlow)"/>
+
+<text x="30" y="0" class="ascii">
+<tspan x="30" y="79.98" xml:space="preserve">-::::::::::::...............................::::::-----------:::::::::::::::::::::::::::::::</tspan>
+<tspan x="30" y="87.53" xml:space="preserve">-:::::::::::......................::::-=+=-=++=++=++===----::::::..:::::::::::::::::::::::::</tspan>
+<tspan x="30" y="95.07" xml:space="preserve">-:::::::::::....................-+++++**=++***%*%%****++=--::::::...::::::::::::::::::::::::</tspan>
+<tspan x="30" y="102.62" xml:space="preserve">-::::::::::...................:-=****=++**%%%%%%%%%****+==---:::.....:::::::::::::::::::::::</tspan>
+<tspan x="30" y="110.17" xml:space="preserve">:::::::::::.................:-=+**+*****%%%%%%%%%%%***%**++-=+-:.....:::::::::::::::::::::.:</tspan>
+<tspan x="30" y="117.72" xml:space="preserve">:::::::::::..............:-+=++**%%****%%**%%%%%***********++=+-:....:::::::::::::::::::::.:</tspan>
+<tspan x="30" y="125.27" xml:space="preserve">-::::::::::.............-++-=+*********%%%%%%****++++=+++*****+=-....::::::::::::::::::::..:</tspan>
+<tspan x="30" y="132.81" xml:space="preserve">-::::::::::............:=+==+****%*%%%**%%***++=---==---==+*****=::...::::::::::::::::::...:</tspan>
+<tspan x="30" y="140.36" xml:space="preserve">-::::::::::............-===+***********%***+=---:::::::::::-=+**+=-::.::::::::::::::::::...:</tspan>
+<tspan x="30" y="147.91" xml:space="preserve">-::::::::::...........-=--=+**************+=-::::::::::::::::-=+++-:::::::::::::::::::::....</tspan>
+<tspan x="30" y="155.46" xml:space="preserve">:::::::::::..........-+=-=+*******%******+=-::......::::::.:.:-=====-::::::::::::::::::::...</tspan>
+<tspan x="30" y="163.01" xml:space="preserve">:::::::::::.........:++++******%********++=--:................::--==-::::::::::::::::::::..:</tspan>
+<tspan x="30" y="170.55" xml:space="preserve">:::::::::::.........-++*+******%%%****+++==-::.................::.-=-::::::::::::::::::::..:</tspan>
+<tspan x="30" y="178.10" xml:space="preserve">::::::::::.........:+*******%*%%*****+++=--::::::.:...:::::-==+++=-===::::::::::::::::::::.:</tspan>
+<tspan x="30" y="185.65" xml:space="preserve">::::::::::..........-*****%**%%%**%**=--===++**+++=--:::::-====---:=--::::::::::::::::::::.:</tspan>
+<tspan x="30" y="193.20" xml:space="preserve">-:::::::::..........=+++***%%%*%%%*+-::-+========----::::-==++++==-----=-:::::::::::::::::.:</tspan>
+<tspan x="30" y="200.75" xml:space="preserve">::::::::::..........-+++**%%%%%%%*=-::--===+++*+===----::-+++++=--::-.:-::::::::::::::::::.:</tspan>
+<tspan x="30" y="208.29" xml:space="preserve">::::::::::.........:+++=+****%%%%*==--==+=+++++=-==--==:.:==----:::...:-:::::::::::::::::..:</tspan>
+<tspan x="30" y="215.84" xml:space="preserve">::::::::::........:=*++=++**%%%%**=::::-==-------::::-:...:--:.......::-::::::::::::::::::.:</tspan>
+<tspan x="30" y="223.39" xml:space="preserve">::::::::::.......:=+++++===++****+-::...-=-:.::::..:-:::....:--:::::. ::::::::::::::::::::.:</tspan>
+<tspan x="30" y="230.94" xml:space="preserve">::::::::::.....:.:++=*%*+--======*=::....::::::::::::::::...:::::.....--::::::::::::::::::::</tspan>
+<tspan x="30" y="238.49" xml:space="preserve">::::::::::.....:-++**%%%*+--=--=-==-:::...::.....:::::-==-::-:::::::..==-:::::::::::::::::::</tspan>
+<tspan x="30" y="246.03" xml:space="preserve">:::::::::.....:=+***%%*%%%*=::::-:-=:::::..::::::::..::::::::...::::.:*+-:::::::::::::::::::</tspan>
+<tspan x="30" y="253.58" xml:space="preserve">-::::::::.....-=+***%*%%%%%%*-::::-=-:::::::::::::::::---------=-::..=**+-::::::::::::::::::</tspan>
+<tspan x="30" y="261.13" xml:space="preserve">-:::::::::...:--+**%%%%%%%%%%%*+++*+=-:::::::::::-====-------::::::.-**++=::::::::::::::::::</tspan>
+<tspan x="30" y="268.68" xml:space="preserve">-:::::::::::::-+***%%%%%%%%%%%%%%%%*+=-::::::::::::.:::------::..::-****==--::::::::::::::::</tspan>
+<tspan x="30" y="276.23" xml:space="preserve">:::::::::::::=+*****%%%%%%%%%%%%%%%%+==-:::::::::::::::::::::.....=****+=--:::::::::::::::::</tspan>
+<tspan x="30" y="283.77" xml:space="preserve">::::::::::--==+*****%%%%%%%%%%%%%%%%+=-==--:::::::::::..........:+%%**+===-:::::::::::::::::</tspan>
+<tspan x="30" y="291.32" xml:space="preserve">::::::::---=++****%***%%%%%%%%%%%%%%*=---------:::::::::..:::::=*%%%***+=--:::::::::::::::::</tspan>
+<tspan x="30" y="298.87" xml:space="preserve">:::::::--=++++********%%%%%%%%%%%%%%*=--:-------------:::::=+*%%%%%%**+++-:-::::::::::::::::</tspan>
+<tspan x="30" y="306.42" xml:space="preserve">::::-:-===*+++*****+**%%%%%%%%%%%%%%*+--::::::--------:::::*%%%%%%%**+++*+-=-:::::::::::::::</tspan>
+<tspan x="30" y="313.97" xml:space="preserve">-:::---===+***%*+*+*%%%%%%%%%%%%%%%%*+=-:::::::::::::::.::-*%%%%%%%****+**==--::::::::::::::</tspan>
+<tspan x="30" y="321.51" xml:space="preserve">-------=+++*********%%%%***%%%%%%%%%**+-::::::::::::::..::+%%%%%%%%*******=---::::::::::::::</tspan>
+<tspan x="30" y="329.06" xml:space="preserve">=----==++++++++*****%%%%%***%%%%%%%%%*+=--:::::::::::....:*%%%%%%********+=-::::::::::::::::</tspan>
+<tspan x="30" y="336.61" xml:space="preserve">=----::..   .:-+*****%%%%%**%%%%%*****++=--:::::::::.....:=-+**%%%%%%%**++=:::::::::::::::::</tspan>
+<tspan x="30" y="344.16" xml:space="preserve">-.        ...--=+**%%%%%%%%%%%%%%%%%%*+++=--::::::::.....:-. .::--===+***+==--::::::::::::::</tspan>
+<tspan x="30" y="351.71" xml:space="preserve">          ....-=++**%%%%%%%%%%%%%%%%%%*+===-:::::::::.....:.      .  ..  ..:..::::::::::::::</tspan>
+<tspan x="30" y="359.25" xml:space="preserve">           ...-:==**%%%%%**%%%%%%%%%%***+==-:::::::::....::                       .:::::::::</tspan>
+<tspan x="30" y="366.80" xml:space="preserve">           ...::--=****%%%*%%%*%%%%%****+==-:::::::.....:-.                          .::::::</tspan>
+<tspan x="30" y="374.35" xml:space="preserve">           . .::-=+*%%***%%%%%*%%%%%**+++=--::...::....:-.                             .::::</tspan>
+<tspan x="30" y="381.90" xml:space="preserve">          .....=+=+*%%%%%***%%%%%%%***++==-::........::.                                ::::</tspan>
+<tspan x="30" y="389.45" xml:space="preserve">           ...---=****%%%%%***%%%%%%***+-::::.......::                                   :::</tspan>
+<tspan x="30" y="396.99" xml:space="preserve">       .   ..--.-+*+**%%%%%*%**%%%%***+=-..::.:::...::                                   .::</tspan>
+<tspan x="30" y="404.54" xml:space="preserve">.       .   .:=.:+****%%%%%**%*%%%*****=:..::..::....:                                    .:</tspan>
+<tspan x="30" y="412.09" xml:space="preserve">          .  .-=:=****%%%%****%*%%***+++=...........::                                     :</tspan>
+<tspan x="30" y="419.64" xml:space="preserve">.          .  :=+=+*****%%%%%*%%*****++==-.  .......:.                                     .</tspan>
+<tspan x="30" y="427.19" xml:space="preserve">           .. :=-=+******%*%%%%%*****++=--:.  .....::                                       </tspan>
+<tspan x="30" y="434.73" xml:space="preserve">           ...::::+*%******%%%%%*****+=+-::.   ....::                                       </tspan>
+<tspan x="30" y="442.28" xml:space="preserve">.           ::.:-=******%%%%%%%%*****+=+=::..   ...:                                        </tspan>
+<tspan x="30" y="449.83" xml:space="preserve">.          ..-.:++=*****%%%%%%%%%*****++=::..    .::                                        </tspan>
+<tspan x="30" y="457.38" xml:space="preserve">.         ....:++-=**%***%%%%%**%*****+=-:...     :.                            .           </tspan>
+<tspan x="30" y="464.93" xml:space="preserve">           ..::+=-=**%*****%%%%*******+-::....                                  .           </tspan>
+<tspan x="30" y="472.47" xml:space="preserve">          ...::==-=*********%%%*******+=:::..                                  .            </tspan>
+</text>
+
+<text x="520" y="0" fill="#24292F">
+<tspan x="520" y="42" class="head">sushmita@devos</tspan><tspan class="cc"> -——————————————————————————————————————————-—-</tspan>
+<tspan x="520" y="66" class="cc">. </tspan><tspan class="key">Subject</tspan><tspan class="cc">: .......................... </tspan><tspan class="value">Sushmita Dasari</tspan>
+<tspan x="520" y="88" class="cc">. </tspan><tspan class="key">Role</tspan><tspan class="cc">: ............................. </tspan><tspan class="value">AI/ML Undergrad · Full-Stack Eng</tspan>
+<tspan x="520" y="110" class="cc">. </tspan><tspan class="key">Origin</tspan><tspan class="cc">: ........................... </tspan><tspan class="value">Andhra Pradesh, India</tspan>
+<tspan x="520" y="132" class="cc">. </tspan><tspan class="key">Education</tspan><tspan class="cc">: ......................... </tspan><tspan class="value">B.Tech AI &amp; ML, CGPA 9.10</tspan>
+<tspan x="520" y="154" class="cc">. </tspan><tspan class="key">Status</tspan><tspan class="cc">: ............ </tspan><tspan class="value">Building • Learning • Shipping</tspan>
+<tspan x="520" y="176" class="cc">. </tspan><tspan class="key">ToolChain</tspan><tspan class="cc">: ................. </tspan><tspan class="value">VS Code, Git, Docker, Postman</tspan>
+<tspan x="520" y="198" class="cc">. </tspan>
+<tspan x="520" y="220" class="cc">. </tspan><tspan class="key">Core</tspan><tspan class="cc">.</tspan><tspan class="key">Lang</tspan><tspan class="cc">: .......... </tspan><tspan class="value">Java, Python, C, C++</tspan>
+<tspan x="520" y="242" class="cc">. </tspan><tspan class="key">Core</tspan><tspan class="cc">.</tspan><tspan class="key">Frontend</tspan><tspan class="cc">: ...... </tspan><tspan class="value">React, HTML, CSS, JavaScript</tspan>
+<tspan x="520" y="264" class="cc">. </tspan><tspan class="key">Core</tspan><tspan class="cc">.</tspan><tspan class="key">Backend</tspan><tspan class="cc">: ....... </tspan><tspan class="value">Node.js, Express.js, REST APIs</tspan>
+<tspan x="520" y="286" class="cc">. </tspan><tspan class="key">Core</tspan><tspan class="cc">.</tspan><tspan class="key">Database</tspan><tspan class="cc">: ...... </tspan><tspan class="value">PostgreSQL, MongoDB, MySQL</tspan>
+<tspan x="520" y="308" class="cc">. </tspan><tspan class="key">Core</tspan><tspan class="cc">.</tspan><tspan class="key">Infra</tspan><tspan class="cc">: ......... </tspan><tspan class="value">Docker, JWT/RBAC, Microservices</tspan>
+<tspan x="520" y="330" class="cc">. </tspan>
+<tspan x="520" y="352" class="accent">- Contact</tspan><tspan class="cc"> -————————————————————————————————————————————-—-</tspan>
+<tspan x="520" y="374" class="cc">. </tspan><tspan class="key">Grid</tspan><tspan class="cc">.</tspan><tspan class="key">Mail</tspan><tspan class="cc">: ....................... </tspan><tspan class="value">sushmitadasari17@gmail.com</tspan>
+<tspan x="520" y="396" class="cc">. </tspan><tspan class="key">Grid</tspan><tspan class="cc">.</tspan><tspan class="key">Portfolio</tspan><tspan class="cc">: .................. </tspan><tspan class="value">videoportfolio-kohl.vercel.app</tspan>
+<tspan x="520" y="418" class="cc">. </tspan><tspan class="key">Grid</tspan><tspan class="cc">.</tspan><tspan class="key">LinkedIn</tspan><tspan class="cc">: ................... </tspan><tspan class="value">sushmita-dasari-227a40284</tspan>
+<tspan x="520" y="440" class="cc">. </tspan><tspan class="key">Grid</tspan><tspan class="cc">.</tspan><tspan class="key">Github</tspan><tspan class="cc">: ..................... </tspan><tspan class="value">Sushmitadasari</tspan>
+<tspan x="520" y="462" class="cc">. </tspan>
+<tspan x="520" y="484" class="accent">- Live Stats</tspan><tspan class="cc"> -————————————————————————————————————————————-—-</tspan>
+<tspan x="520" y="506" class="cc">. </tspan><tspan class="value">See live GitHub stats badges below in README ↓</tspan>
+</text>
+
+<rect x="3" y="3" width="1174" height="554" rx="16" fill="none" stroke="url(#borderGrad)" stroke-width="2" opacity="0.8">
+  <animate attributeName="opacity" values="0.5;0.95;0.5" dur="3.2s" repeatCount="indefinite"/>
+</rect>
+</svg>
